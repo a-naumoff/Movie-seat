@@ -1,1 +1,1 @@
-link https://a-naumoff.github.io/Movie-seat/
+link https://andreynaumov.github.io/Movie-seat/
